@@ -74,4 +74,4 @@ Content-Disposition: form-data; name="status"
 
 5.Payload will trigger when a user visits on http://localhost/sis/admin/?page=courses
 
-![image](https://github.com/sssddc11/bug_report/blob/master/xss1.png)
+![image](https://github.com/sssddc11/bug_report/blob/master/xss2.png)
