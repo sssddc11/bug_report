@@ -1,8 +1,4 @@
-# Simple Student Information System v1.0 has stored cross-site scripting
-
 BUG_Author:wangshiyou
-
-Website Source Code Address:https://www.sourcecodester.com/php/15147/simple-student-information-system-phpoop-free-source-code.html
 
 Vulnerability url: /sis/classes/Master.php?f=save_course
 
